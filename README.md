@@ -17,7 +17,7 @@
 
 <br />
 
-<a href="https://verify.skilljar.com/c/wm4i64zqtwqy">
+<a href="https://www.credly.com/badges/71b73ba9-bdb6-48e8-b108-aea77c3628c5">
   <img src="assets/claude-certified-architect-foundations.png" alt="Claude Certified Architect - Foundations" width="132" />
 </a>
 
@@ -90,7 +90,7 @@ From my time at **OPIS, a Dow Jones Company** (2022–2025):
 
 ## Credentials
 
-- **Claude Certified Architect, Foundations** · Anthropic, 2026 · [verify](https://verify.skilljar.com/c/wm4i64zqtwqy)
+- **Claude Certified Architect, Foundations** · Anthropic, 2026 · [verify](https://www.credly.com/badges/71b73ba9-bdb6-48e8-b108-aea77c3628c5)
 - **Advanced React** · Meta, 2023 · [verify](https://coursera.org/verify/PFLHUXYY9PEL)
 - **BSc in Systems Engineering** · EAN University · in progress
 
