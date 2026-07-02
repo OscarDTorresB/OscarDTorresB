@@ -22,7 +22,7 @@
 </a>
 
 **Claude Certified Architect · Foundations**
-Anthropic, 2026 · [verify&nbsp;→](https://verify.skilljar.com/c/wm4i64zqtwqy)
+Anthropic, 2026 · [verify&nbsp;→](https://www.credly.com/badges/71b73ba9-bdb6-48e8-b108-aea77c3628c5)
 
 </div>
 
