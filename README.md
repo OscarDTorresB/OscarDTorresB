@@ -13,7 +13,7 @@
 [![Website](https://img.shields.io/badge/oscartorres.co-0E7C86?style=flat-square&logo=googlechrome&logoColor=white)](https://oscartorres.co)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0E7C86?style=flat-square)](https://www.linkedin.com/in/oscardtorresb/)
 [![Email](https://img.shields.io/badge/oscar@oscartorres.co-0E7C86?style=flat-square&logo=maildotru&logoColor=white)](mailto:oscar@oscartorres.co)
-[![Résumé](https://img.shields.io/badge/Résumé-0E7C86?style=flat-square&logo=readdotcv&logoColor=white)](https://oscartorres.co)
+[![Résumé](https://img.shields.io/badge/Résumé-0E7C86?style=flat-square&logo=readdotcv&logoColor=white)](https://oscartorres.co/assets/files/Oscar_Torres_Software_Engineer.pdf)
 
 <br />
 
